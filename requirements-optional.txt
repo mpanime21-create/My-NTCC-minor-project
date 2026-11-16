@@ -1,0 +1,4 @@
+# OPTIONAL: pretrained YOLO object detection for the Vision page.
+# Large download (PyTorch, OpenCV, several hundred MB). The application works without it.
+# Install:  .\.venv\Scripts\python.exe -m pip install -r requirements-optional.txt
+ultralytics>=8.3,<9

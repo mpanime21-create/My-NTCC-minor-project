@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+data/*.db
+data/*.db-*
+*.pt
+node_modules/
+*.tsbuildinfo
+# YOLO / ML weights and large media
+*.onnx
+*.weights
+*.mp4
+*.avi
+*.mov
+*.mkv
+# local tooling
+.claude/
